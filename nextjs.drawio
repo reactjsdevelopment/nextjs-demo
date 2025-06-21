@@ -1,0 +1,21 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="27.0.3">
+  <diagram id="_dIDnpVzGwcdxlkYJzQc" name="Page-1">
+    <mxGraphModel dx="915" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zgkbmM4lBP8iO_TUm_l8-1" value="Next JS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="my-nextjs-app/&#xa;├── app/                    # (if using App Router)&#xa;│   ├── page.tsx            # Main page&#xa;│   └── layout.tsx          # Layout wrapper&#xa;├── pages/                  # (if using Pages Router)&#xa;│   ├── index.tsx           # Home page&#xa;│   └── api/                # API routes&#xa;├── public/                 # Static files like images&#xa;├── styles/                 # Global or module CSS files&#xa;│   └── globals.css&#xa;├── .gitignore&#xa;├── next.config.js          # Next.js config&#xa;├── package.json&#xa;├── tsconfig.json           # If using TypeScript&#xa;└── README.md&#xa;    .next&#xa;    components&#xa;    lib&#xa;    posts (custom folder)&#xa;    utils (custom folder)" link="my-nextjs-app/&#xa;├── app/                    # (if using App Router)&#xa;│   ├── page.tsx            # Main page&#xa;│   └── layout.tsx          # Layout wrapper&#xa;├── pages/                  # (if using Pages Router)&#xa;│   ├── index.tsx           # Home page&#xa;│   └── api/                # API routes&#xa;├── public/                 # Static files like images&#xa;├── styles/                 # Global or module CSS files&#xa;│   └── globals.css&#xa;├── .gitignore&#xa;├── next.config.js          # Next.js config&#xa;├── package.json&#xa;├── tsconfig.json           # If using TypeScript&#xa;└── README.md" id="zgkbmM4lBP8iO_TUm_l8-4">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="50" y="140" width="320" height="300" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zgkbmM4lBP8iO_TUm_l8-5" value="npx create-next-app@latest my-nextjs-app" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="170" width="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
